@@ -1,7 +1,7 @@
 {
   "name": "api-express-ts",
   "version": "1.0.0",
-  "main": "dist/routes/index.js",
+  "main": "index.js",
   "scripts": {
     "dev": "nodemon ./src/app.ts ",
     "build": "prisma generate && tsc",
