@@ -8,7 +8,12 @@
     "skipLibCheck": true ,
     "outDir" : "./dist",
     "rootDir" : "./src" 
+<<<<<<< HEAD
   },
   "include": ["src"],
   "exclude": ["node_modules"],
 }
+=======
+  }
+}
+>>>>>>> 01033058d4fad4bd29cc2067bdb5400edc6ad859
