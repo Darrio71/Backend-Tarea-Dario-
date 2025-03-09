@@ -7,4 +7,4 @@ services:
     startCommand: npm start
     envVars:
       - key: DATABASE_URL
-        value: "postgresql://dario_backend_database_user:S2siW9Y20hrthNOZsuyoWR9VJacyu85I@dpg-cv68kofnoe9s73bsqin0-a.oregon-postgres.render.com/dario_backend_database"
+        value: "postgresql://dario_backend_database_user:S2siW9Y20hrthNOZsuyoWR9VJacyu85I@dpg-cv68kofnoe9s73bsqin0-a/dario_backend_database"
